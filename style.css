@@ -1,0 +1,125 @@
+p {
+    color: blue;
+    font-size: 25px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 48px;
+    text-align:center;               
+}
+
+#page-title {
+    text-shadow:4px 4px lightslategray;
+}
+body {
+    background-color:lightblue;
+    background-image: url(hobbit.jpeg);
+    background-repeat:repeat-y;
+    background-blend-mode:overlay;
+    background-position:right;
+    font-family: Agency FB,Times New Roman, Times, serif;
+    font-size: 24px;
+    
+}
+
+h2 {
+    font-size: 30px;
+    color:darkred;
+    text-align: left;
+    text-indent: 30px;
+    text-decoration: underline;
+    text-shadow: 2px 2px lightpink;
+}
+
+h3 {
+    color:darkslateblue;
+    text-align:center;
+    font-size: 20px;
+    
+}
+
+li {
+     color: blue;
+     list-style-type: square;
+     text-decoration: underline;
+     
+}
+
+
+a {
+    background-color: lightgreen;
+    color: red;
+    text-decoration: none;
+    
+}
+
+.second-favorite {
+    text-decoration-color: deeppink;
+    text-shadow: 2px 2px greenyellow;
+    margin: 10px;
+    padding: 15px;
+    
+    
+}
+
+#most-favorite-food {
+    text-decoration-color: darkviolet;
+    text-shadow: 1px 1px magenta;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+#dessert {
+    color:mediumspringgreen;
+    text-decoration-color: olivedrab;
+    text-shadow: 2px 2px lightslategray;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+#eats {
+    text-shadow: 1px 1px red;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+
+#author {
+    text-shadow: 2px 2px lightslategray;
+    text-align: right;
+}
+
+#book_author {
+    text-shadow: 2px 2px lightslategray;
+}
+
+#favorite-music-name {
+    text-shadow: 2px 2px rgb(153, 119, 143);
+}
+
+.favorite-image {
+    padding-right: 300px;
+    margin: 15px;
+}
+
+table, tr, th, td {
+    width: relative;
+    border: 3px lightslategray double;
+    background-color: lightsteelblue;
+}
+
+th {
+    text-shadow: 1px 1px blue;
+}
+td {
+    text-align: center;
+}
+
+html {
+    width: relative;
+}
+
